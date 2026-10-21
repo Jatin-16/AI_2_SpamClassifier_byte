@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# Keep the downloaded dataset out of Git
+data/*
+!data/.gitkeep
+
+# Keep the trained model and evaluation results in Git
+!models/*
+!results/*

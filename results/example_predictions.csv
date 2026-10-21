@@ -1,0 +1,13 @@
+message,predicted_label,spam_probability,confidence_of_predicted_label
+Congratulations! You have won a free prize. Call now to claim.,spam,0.988,0.988
+"Hey, are we still meeting for lunch today?",ham,0.1008,0.8992
+URGENT! Your account has been selected for a cash reward.,spam,0.7828,0.7828
+Can you send me the notes from today's class?,ham,0.1375,0.8625
+Claim your exclusive offer now by clicking this link.,spam,0.8779,0.8779
+I'll be there in ten minutes.,ham,0.0779,0.9221
+You have been chosen to receive a free gift voucher.,spam,0.8819,0.8819
+Please call me when you reach home.,ham,0.2564,0.7436
+WINNER! You have won a lottery. Reply now.,spam,0.9255,0.9255
+Thanks for helping me with the assignment.,ham,0.2224,0.7776
+Your package will arrive tomorrow afternoon.,ham,0.2833,0.7167
+Get cheap loans instantly. Apply now!,ham,0.4568,0.5432

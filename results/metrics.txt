@@ -1,0 +1,8 @@
+Test-set metrics (spam is the positive class)\naccuracy: 0.9778\nprecision: 0.9091\nrecall: 0.9160\nf1_score: 0.9125\n\nClassification report:\n              precision    recall  f1-score   support
+
+         ham       0.99      0.99      0.99       903
+        spam       0.91      0.92      0.91       131
+
+    accuracy                           0.98      1034
+   macro avg       0.95      0.95      0.95      1034
+weighted avg       0.98      0.98      0.98      1034
